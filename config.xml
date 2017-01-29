@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="es.pilatesmanzaneque.camera" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Camera</name>
+    <description>
+        La aplicación mas guay de Cristipandi
+    </description>
+    <author email="cristipandi@panda.com" href="http://patidopandista.com">
+        Cristipandi
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="org.apache.cordova.camera" spec="0.2.9" source="pgb" />
+</widget>
